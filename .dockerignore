@@ -1,0 +1,26 @@
+# Git stuff
+.git
+
+# enviroment variables
+
+# Logs
+logs
+*.log
+
+# Test folders
+__test__
+
+# Dependency directory
+node_modules
+
+# GIT
+#.git
+
+
+# Build tools
+.idea
+.DS_Store
+.dockerignore
+.gitignore
+Dockerfile
+README.md
