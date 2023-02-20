@@ -34,6 +34,7 @@ Styled-Components for the styling and typescript for type checking and dev-exper
 1. Try to keep the Component's methods styles in the same folder
 2. Additions documentaion when needed exaple: [Button](./src/components/Button/readme.md)
 3. TDD test work as the real documentation of what is expected
+4. Follow the accessibility [rules](https://www.w3.org/WAI/standards-guidelines/wcag/) 
 
 ## Deploying
 
