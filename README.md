@@ -1,6 +1,9 @@
 F1- champions
 ================
 
+## Demo
+Check out the live [demo](http://f1-champions.ksulourgeio.gr/)
+
 ## Project setup
 1. Clone the project
 2. Create .env file as in the example [file](./env.example)
